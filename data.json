@@ -1,0 +1,28 @@
+{
+  "professores": [
+    {
+      "foto": "imagens/Leidiane.png",
+      "nome": "Leidiane Magalhães de A. Barros",
+      "formacao": "Graduada em Pedagogia (UFPI)",
+      "lattes": "link-para-lattes-1"
+    },
+    {
+      "foto": "imagens/Estevão.png",
+      "nome": "Carlos Estevão Bastos Sousa",
+      "formacao": " Mestre em Ciências da Computação - IFCE",
+      "lattes": "link-para-lattes-2"
+    },
+    {
+      "foto": "imagens/Jurandir.png",
+      "nome": "Jurandir Cavalcante L. Júnior",
+      "formacao": "Sistemas de Informação",
+      "lattes": "link-para-lattes-2"
+    },
+    {
+      "foto": "imagens/Tulio.png",
+      "nome": "Tulio Vidal Rolim",
+      "formacao": "Doutorando em Ciência da Computação (UFC)",
+      "lattes": "link-para-lattes-2"
+    }
+  ]
+}
